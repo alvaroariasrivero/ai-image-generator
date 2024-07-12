@@ -35,7 +35,7 @@ submitForm.addEventListener('submit', async (e) => {
 //     headers: {
 //       accept: 'application/json',
 //       'content-type': 'application/json',
-//       'X-API-Key': 'q5PSEA0Rfwg7bPt2cP2QSsd0AfXQGg',
+//       'X-API-Key': '',
 //       'access-control-allow-credentials':	'*'
 //     },
 //     body: JSON.stringify({
